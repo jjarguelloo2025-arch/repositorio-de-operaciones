@@ -5,7 +5,7 @@ resta = numero1 - numero2
 multiplicacion = numero1 * numero2
 divicion = numero1 / numero2
 
-print("LA SUMA DE LOS DOS NUMEROS ES: ",suma)
-print("LA RESTA DE LOS DOS NUMEROS ES: ",resta)
-print("LA MULTIPLICACION DE LOS DOS NUMEROS ES: ",multiplicacion)
-print("LA DEIVICION DE LOS DOS NUMEROS ES: ",divicion)
+print("EL REESULTADO ES: ",suma)
+print("EL REESULTADO ES: ",resta)
+print("EL REESULTADO ES: ",multiplicacion)
+print("EL REESULTADO ES: ",divicion)
